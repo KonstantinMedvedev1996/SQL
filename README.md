@@ -1,17 +1,17 @@
 # SQL
 
-# Collection of SQL quick tricks for data analysist
+# Collection of SQL quick tricks for data analyst
 
 
 ## SQL quick tricks
-* [Trick 1. Quick creation of SQL data base from  CSV files ](1. creating SQL data base from CSV)
+* [Trick 1. Quick creation of SQL data base from  CSV files ](trick_1)
 * in progress ...
 
 
 
 
 
-<!-->
+<!--
 # Проекты курса SkillFactory
 Репозиторий проектов [Полный курс по Data Science](https://skillfactory.ru/data-science-specialization)
 
@@ -27,3 +27,4 @@
 * [Проект 6. Кластеризация клиентов магазина](Project_6)
 * [Финальный проект. Модель прогнозирования стоимости жилья для агентства недвижимости](Project_Final)
 * в работе ...
+>
