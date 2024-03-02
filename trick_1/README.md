@@ -14,3 +14,6 @@ We'll provide two options:
 Additionally, there's a third option for those who prefer not to mount drives frequently. We can simply download the database from a provided link.
 
 In the next section, I'll demonstrate how to merge toy data or sample data for practicing SQL queries.
+
+
+[This is link to notebook with examples](https://colab.research.google.com/drive/1nzz9c56qBmcFHDgMu-dkrHwRVSjl5g2b?usp=drive_link)

@@ -4,7 +4,7 @@
 
 
 ## SQL quick tricks
-* [Trick 1. Quick creation of SQL data base from  CSV files ](trick_1)
+* [Trick 1. Quick creation of SQL data base from  CSV files ](trick_1). [And here is direct link to Colab notebook with examples](https://colab.research.google.com/drive/1nzz9c56qBmcFHDgMu-dkrHwRVSjl5g2b?usp=drive_link)
 * in progress ...
 
 
